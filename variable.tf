@@ -62,3 +62,7 @@ variable "database_subnet_names" {
     default = {}
   
 }
+variable "public_route_table_tags" {
+    default = {}
+  
+}
